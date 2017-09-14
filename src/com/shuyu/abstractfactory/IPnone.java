@@ -17,7 +17,7 @@ public class IPnone extends AbstractPhone {
 	*/
 	@Override
 	public void getPhone() {
-		System.out.println("道惚返字");
+		System.out.println("僕道惚返字");
 
 	}
 

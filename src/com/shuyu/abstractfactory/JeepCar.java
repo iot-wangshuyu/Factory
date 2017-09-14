@@ -17,7 +17,7 @@ public class JeepCar extends AbstractCar {
 	*/
 	@Override
 	public void getPrices() {
-		System.out.println("越野车的价格100万");
+		System.out.println("买越野车的，价格100万");
 
 	}
 

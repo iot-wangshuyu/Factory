@@ -17,7 +17,7 @@ public class SportsCar extends AbstractCar {
 	*/
 	@Override
 	public void getPrices() {
-		System.out.println("跑车200万");
+		System.out.println("买跑车，价格200万");
 
 	}
 

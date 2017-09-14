@@ -17,7 +17,7 @@ public class HuaWeiPhone extends AbstractPhone {
 	*/
 	@Override
 	public void getPhone() {
-		System.out.println("华为手机");
+		System.out.println("送华为手机");
 
 	}
 
